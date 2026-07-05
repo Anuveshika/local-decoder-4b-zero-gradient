@@ -83,8 +83,7 @@ Forward-Forward circuit.
 ├── requirements.txt
 ├── environment.yml
 ├── notebooks/
-│   ├── executed_kaggle_run.ipynb
-│   └── source_six_cell_notebook.ipynb
+│   ├── Local Decoder 4B notebook.ipynb
 ├── src/
 │   ├── local_decoder_4b.py
 │   └── inference_cpu.py
@@ -96,8 +95,7 @@ Forward-Forward circuit.
 │   ├── REPRODUCIBILITY.md
 │   ├── DEPLOYMENT.md
 │   ├── COMPLIANCE.md
-│   ├── VIDEO_SCRIPT.md
-│   └── SUBMISSION_CHECKLIST.md
+│   ├── MEDIA_GALLERY.md
 ├── media/
 │   ├── cover.png
 │   ├── memory_profile.png
