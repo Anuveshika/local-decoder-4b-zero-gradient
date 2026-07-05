@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Local Decoder 4B: Sparse Local Forward-Forward Learning on One T4"
+message: "Please cite this repository and its executed Kaggle notebook."
+type: software
+version: 1.0.0
+date-released: 2026-07-05
+license: Apache-2.0
+authors:
+  - family-names: "Prasad"
+    given-names: "Anuveshika"
+repository-code: "https://github.com/Anuveshika/local-decoder-4b-zero-gradient"

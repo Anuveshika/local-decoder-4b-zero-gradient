@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "bytes": 298,
+      "sha256": "fa9f76f73c36aa8688fe4ea46ab33a6682ad91f8bc3e1d5263d8c8ac152ffedb"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 89,
+      "sha256": "1f07340bf8c89ac21ddbd5b23bdbf80a87de3685a3d5ef4d621df2fba649f1c2"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 389,
+      "sha256": "5c5f8269d94ff60b66d9382707d1fa41040992fee39c915c703d365d2fbf95b1"
+    },
+    {
+      "path": "docs/COMPLIANCE.md",
+      "bytes": 1255,
+      "sha256": "2a5ae06ac141747d5745090665997ff35a11b744960ccaea857bfc806a351a9b"
+    },
+    {
+      "path": "docs/DEPLOYMENT.md",
+      "bytes": 2356,
+      "sha256": "f14c399075d89fb84ec09ce45e989a1dc9586e1a10e1e20a66c41c3921983ce9"
+    },
+    {
+      "path": "docs/KAGGLE_WRITEUP.md",
+      "bytes": 17894,
+      "sha256": "9675013f13d0e15b10cf877f2ca7c3070f81254b3c0b01885ef2353ae1108292"
+    },
+    {
+      "path": "docs/MEDIA_GALLERY.md",
+      "bytes": 1739,
+      "sha256": "ab4b589dba3832ac92e0ac9e44f39c90954f3788b44488f93075d6143a22805d"
+    },
+    {
+      "path": "docs/PUBLISH_GITHUB.md",
+      "bytes": 1038,
+      "sha256": "f67a9f82a5f02edfaaa29d44b353238fa70b09d103ea69a931d4e55224f0e0ff"
+    },
+    {
+      "path": "docs/REPRODUCIBILITY.md",
+      "bytes": 2879,
+      "sha256": "1c182926a718358250862994577d1a525433e544ce3f2ee2d76ae641fbc89210"
+    },
+    {
+      "path": "docs/SUBMISSION_CHECKLIST.md",
+      "bytes": 1150,
+      "sha256": "a332e5b9e136bbc8625fb4d588d3920941b5ad1dbff66a553c8363615c8d3377"
+    },
+    {
+      "path": "docs/VIDEO_SCRIPT.md",
+      "bytes": 5352,
+      "sha256": "107f89aad2baa122f1c12ba08e8f1cdb4796f8ab68b1295e4aae1b9d0c19a852"
+    },
+    {
+      "path": "environment.yml",
+      "bytes": 219,
+      "sha256": "c11d7ab33193f3905113e1e09c94cf861c9810f70d6a518e170d692db1cf2f20"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 721,
+      "sha256": "2967aa525536987caaf2dffeaf4e806ed508d16b66d90058cabb5be2602c8efe"
+    },
+    {
+      "path": "media/architecture.png",
+      "bytes": 171065,
+      "sha256": "391792b8779d396a30b0ecee05a212b6c3351b24468febf38db4530d2d543d35"
+    },
+    {
+      "path": "media/benchmark_summary.png",
+      "bytes": 100608,
+      "sha256": "7559139160b261f0df0efac474f3750ea53beb4652f535a51040b0a7589beaa6"
+    },
+    {
+      "path": "media/cover.png",
+      "bytes": 149667,
+      "sha256": "ad50300f37d9fa7b8b3d547c7a3333e30f3f17fe8aeb8f82790c59982113fa34"
+    },
+    {
+      "path": "media/memory_profile.png",
+      "bytes": 135785,
+      "sha256": "9f64420d862e02f6994f58f89ccc677c7c86ee9f7c3c96066365404e9faa3cbc"
+    },
+    {
+      "path": "media/training_curves.png",
+      "bytes": 978595,
+      "sha256": "7ae2ed41545ef23f413b4beea08db4f9d7ba620cd42e404c027153d684acc23d"
+    },
+    {
+      "path": "notebooks/executed_kaggle_run.ipynb",
+      "bytes": 147375,
+      "sha256": "205aef54de867465ed6ea96e3b21072e94e332314748ad78430fccb6c7103c82"
+    },
+    {
+      "path": "notebooks/source_six_cell_notebook.ipynb",
+      "bytes": 48578,
+      "sha256": "54a1a905c7d8484c993bca71a6c5d95c373f19bb7b822f0a7f6b4135a7298fb8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7819,
+      "sha256": "c74acbc4403d383b3ec987ec92bb9cd1dbe1f571b6c05131ed960ffd1b964f22"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 75,
+      "sha256": "7ee088392048fe3f236c97b8239b48198a0b1ab737fc4432a771eb635d8aec7e"
+    },
+    {
+      "path": "results/final_metrics.json",
+      "bytes": 1979,
+      "sha256": "484b5556ae5c44f2072aa1ad76ddd3e2384fdff8eb4cfe7bf1659a1ce1d7aac8"
+    },
+    {
+      "path": "results/memory_trace.json",
+      "bytes": 18106,
+      "sha256": "c1a75087b2b293e904cb4b9b7c9f581c9ddac8c63d549f4cd6581f2d738bc0d3"
+    },
+    {
+      "path": "results/run_summary.json",
+      "bytes": 272,
+      "sha256": "01ec9952da68e3ac9db235c80366039f18cf62db099537e34c20bf5026524078"
+    },
+    {
+      "path": "results/training_trace.json",
+      "bytes": 106097,
+      "sha256": "44d8ad6e56996374c4502b1becba175d7160d287100533085d0c9f0a37525334"
+    },
+    {
+      "path": "scripts/build_release_manifest.py",
+      "bytes": 721,
+      "sha256": "1e64ca228b4e024d410aa1186e8465e9575a5bd63b2d040782874afc63ade5eb"
+    },
+    {
+      "path": "scripts/extract_and_plot.py",
+      "bytes": 9646,
+      "sha256": "80fd6f27e1f8f9f8b4d7c050719c39d801a46e30208a91d456c94c4cb43eff23"
+    },
+    {
+      "path": "scripts/quantize_checkpoint_int8.py",
+      "bytes": 1704,
+      "sha256": "796f5e733f108bab27226bb1e2e4a12cb4daf4ed30e83b2d6036a9e6209aa2b4"
+    },
+    {
+      "path": "slides/build_oral_defense.mjs",
+      "bytes": 11203,
+      "sha256": "1a7959b4a848a8cd31f8f1bddab336fe3e182288896f9282ff61a05e7e054d40"
+    },
+    {
+      "path": "slides/oral_defense.pptx",
+      "bytes": 1068520,
+      "sha256": "e0e3fb01f369afc8ee93273875a59e28d6f2dc828b284d5486913a32e36a15b3"
+    },
+    {
+      "path": "slides/oral_defense.pptx.inspect.ndjson",
+      "bytes": 21233,
+      "sha256": "fda246fcc4639c7c6df592d8a7a790bb4693d5c2662be7a3ce4ad1bb2dedb79e"
+    },
+    {
+      "path": "src/__init__.py",
+      "bytes": 42,
+      "sha256": "b244a6f990cec38e2a041e0c7fc043a33802dcf562d34fcae1b79b1b34e66ad3"
+    },
+    {
+      "path": "src/inference_cpu.py",
+      "bytes": 2784,
+      "sha256": "60a3fe45748869f46c85b1cd066083b51619eec2b004eba305ee186b39a6b243"
+    },
+    {
+      "path": "src/local_decoder_4b.py",
+      "bytes": 16434,
+      "sha256": "396d666818fb3327ca6e8cf63520c0e0eca6b09c4a5fddf1f4fd93716f62a091"
+    },
+    {
+      "path": "tests/__pycache__/test_submission_artifact.cpython-313.pyc",
+      "bytes": 3189,
+      "sha256": "4c27d5f442de9611e5a6e983df74c43b0331828fd038dbbde9227f8ee852ddce"
+    },
+    {
+      "path": "tests/test_submission_artifact.py",
+      "bytes": 1646,
+      "sha256": "d3d055ec25793176058dca1a0ff07b7a6e2983aac43704aea80220bdc535033d"
+    }
+  ]
+}

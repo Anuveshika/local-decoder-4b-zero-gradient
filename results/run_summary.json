@@ -1,0 +1,9 @@
+{
+  "runtime_minutes": 105.73149068493333,
+  "parameters": 4105269992,
+  "processed_tokens": 1623040,
+  "peak_allocated_gib": 7.760114669799805,
+  "peak_reserved_gib": 7.849609375,
+  "memory_reduction_vs_analytical_adamw": 0.8308605017404987,
+  "trace_rows": 155
+}

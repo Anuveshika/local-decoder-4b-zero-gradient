@@ -1,0 +1,6 @@
+matplotlib==3.7.5
+numpy==2.0.2
+pyarrow==18.1.0
+pytest==8.3.5
+torch==2.6.0
+

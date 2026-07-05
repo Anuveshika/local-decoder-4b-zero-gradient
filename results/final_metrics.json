@@ -1,0 +1,59 @@
+{
+  "valid_run": true,
+  "completed_under_180_minutes": true,
+  "elapsed_seconds": 6343.889441096,
+  "gpu": "Tesla T4",
+  "seed": 20260629,
+  "parameters": 4105269992,
+  "backbone_parameters": 4104999392,
+  "decoder_parameters": 270600,
+  "pretrain_steps": 2848,
+  "chat_steps": 322,
+  "processed_tokens": 1623040,
+  "peak_allocated_gib": 7.760114669799805,
+  "peak_reserved_gib": 7.849609375,
+  "adamw_12_bytes_per_parameter_lower_bound_gib": 45.87996742129326,
+  "memory_reduction_vs_adamw_lower_bound": 0.8308605017404987,
+  "validation": {
+    "n": 80,
+    "real_vs_corrupt_accuracy": 0.525,
+    "energy_margin": -0.007811398804187774
+  },
+  "hellaswag": {
+    "n": 256,
+    "accuracy": 0.24609375,
+    "scoring": "mean local-decoder continuation NLL"
+  },
+  "piqa": {
+    "n": 256,
+    "accuracy": 0.51171875,
+    "scoring": "mean local-decoder continuation NLL"
+  },
+  "wikitext_103": {
+    "source": "WikiText-103 raw test",
+    "tokenization": "utf8_byte_v1",
+    "evaluated_bytes": 32768,
+    "predicted_bytes": 32512,
+    "mean_nll_nats": 4.039046032222237,
+    "byte_perplexity": 56.77215815481914,
+    "comparability_warning": "Byte perplexity is not directly comparable to word/subword PPL."
+  },
+  "mt_bench": {
+    "questions": 80,
+    "turns_generated": 160,
+    "nonempty_turns": 160,
+    "answer_file": "/kaggle/working/local_decoder_4b_four_benchmarks/mt_bench_answers.jsonl",
+    "official_judge_score": null,
+    "judge_status": "Judge-ready answers generated; no organizer-approved judge supplied."
+  },
+  "required_benchmark_status": {
+    "hellaswag": "executed_bounded_subset",
+    "piqa": "executed_bounded_subset",
+    "wikitext_103": "executed_byte_perplexity_subset",
+    "mt_bench": "all_80_questions_generated_judge_score_not_fabricated"
+  },
+  "zero_gradient": true,
+  "decoder_error_propagated_into_backbone": false,
+  "random_initialization_only": true,
+  "sota_claim_permitted": false
+}
